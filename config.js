@@ -1,6 +1,6 @@
 const CONFIG = {
-    introTitle: 'Chào Yến nhaaa!',
-    introDesc: `Anh có muốn số điều muốn hỏi em, nhớ phải trả lời thật lòng nha`,
+    introTitle: 'Chào Phương Thảo!',
+    introDesc: `Anh có điều muốn hỏi em, nhớ phải trả lời thật lòng nha`,
     btnIntro: 'Vânggg',
     title: 'Làm người yêu anh nhaaa 😙',
     desc: 'Em không trả lời hoặc thoát ra, tức là em đã đồng ý rồi nha :> ',
